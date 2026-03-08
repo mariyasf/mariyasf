@@ -98,12 +98,32 @@ Software Engineer at **mPair Technologies Ltd.** · Building **SaaS applications
 
 ---
 
-### 🐍 Contribution
+### 📈 Activity & 3D Contribution
+
+<div align="center">
+
+**Commit activity (last year)**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariyasf&theme=react-dark&hide_border=true" width="100%" alt="Activity graph"/>
+
+<br>
+
+**3D contribution**
+
+<img src="https://github-profile-3d-contrib.vercel.app/profile-view-3d?username=mariyasf&theme=vue&repo_timestamp=1" width="100%" alt="3D contribution"/>
+
+</div>
+
+---
+
+### 🎮 Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariyasf/mariyasf/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mariyasf/mariyasf/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariyasf/mariyasf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariyasf/mariyasf/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mariyasf/mariyasf/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
+
 
 ---
 
