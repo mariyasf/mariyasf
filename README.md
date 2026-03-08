@@ -1,75 +1,114 @@
-<h1 align="center">Hi 👋, I'm Mariya Sultana</h1>
-<h3 align="center">Full Stack Software Engineer from Bangladesh 🇧🇩</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariyasultana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+# Mariya Sultana
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+**Full Stack Software Engineer** · Bangladesh 🇧🇩
 
-### 👩‍💻 About Me
+*Building scalable products with React, NestJS & GraphQL*
 
-- 💼 I’m currently working as **Junior Software Engineer at Mpair**
-- 🚀 I build **Scalable SaaS Applications**
-- 🔭 Currently working with **NestJS, GraphQL, MySQL**
-- 🌱 Learning more about **System Design & Microservices**
-- 💬 Ask me about **React, Next.js, Node.js, NestJS**
-- ⚡ Passionate about **building real world products**
-- 📫 Reach me at **mariasultanafahmida@gmail.com**
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mariyasf&label=Profile%20views&color=6366f1&style=flat-square)](https://github.com/mariyasf)
+[![GitHub](https://img.shields.io/badge/GitHub-mariyasf-181717?style=flat-square&logo=github)](https://github.com/mariyasf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariyasf/)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail)](mailto:mariasultanafahmida@gmail.com)
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+<br>
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<table>
+<tr>
+<td width="65%">
+
+### 👋 About
+
+Software Engineer at **mPair Technologies Ltd.** · Building **SaaS applications** that scale.
+
+| | |
+|---|---|
+| 🛠 **Stack** | NestJS, GraphQL, MySQL, React, Next.js |
+| 🌱 **Learning** | System Design & Microservices |
+| 💬 **Ask me** | React, Next.js, Node.js, NestJS |
+| ⚡ **Passion** | Real-world products from idea to deployment |
+
+</td>
+<td width="35%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠 Tech & Tools
+
+*Hover on an icon to see the name.*
+
+**Languages & runtime**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js"/> &nbsp;
+
+**Frontend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" title="React"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" title="Next.js"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" title="Vite"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" title="Material UI"/> &nbsp;
+
+**Backend & data**
+
+<img src="https://nestjs.com/img/logo-small.svg" width="36" height="36" alt="NestJS" title="NestJS"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" title="GraphQL"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL"/> &nbsp;
+
+**DevOps & tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" title="Nginx"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="ESLint" title="ESLint"/> &nbsp;
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/mariyasf">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mariyasf&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Stats"/>
+</a> &nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mariyasf&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+<br><br>
+
+<a href="https://github.com/mariyasf">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariyasf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" />
-</a>
-</p>
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://nestjs.com/img/logo-small.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
+### 🐍 Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariyasf/mariyasf/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mariyasf/mariyasf/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+---
+
+<div align="center">
+
+**Thanks for visiting** · [GitHub](https://github.com/mariyasf) · [LinkedIn](https://www.linkedin.com/in/mariyasf/) · [Email](mailto:mariasultanafahmida@gmail.com)
+
+</div>
